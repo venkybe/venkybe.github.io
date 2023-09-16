@@ -4,31 +4,31 @@
       "name": "Lewis",
       "surname": "Hamilton",
       "nationality": "United Kingdom",
-      "team": "Mercedes",
+      "team": "Mercedes"
     },
     {
       "name": "Schumacher",
       "surname": "Michael",
       "nationality": "Germany",
-      "team": "Ferrari",
+      "team": "Ferrari"
     },
     {
       "name": "Sebastian",
       "surname": "Vettel",
       "nationality": "Germany",
-      "team": "Red Bull",
+      "team": "Red Bull"
     },
     {
       "name": "Ayrton",
       "surname": "Senna",
       "nationality": "Brazil",
-      "team": "McLaren",
+      "team": "McLaren"
     },
     {
       "name": "Max",
       "surname": "Verstappen",
       "nationality": "Netherlands",
-      "team": "Red Bull",
-    },
+      "team": "Red Bull"
+    }
   ]
 }
