@@ -20,7 +20,7 @@
         </nav>
         <!--This code creates the middle section of the webpage-->
         <header class="masthead bg-primary text-white text-center">
-            <h1>My Movies</h1>
+            <h1>My Favorite F1 Drivers</h1>
         </header>
         <!--Here is where the table will be loaded in.  The actual table will be loaded in JavaScript.-->
         <section class="mt-5 text-center">
@@ -38,7 +38,7 @@
         * Add data to table
         * Add table to DOM
         */
-        fetch('./f1-drivers.json')
+        fetch('./list_data.json')
             .then(response => response.json())
             .then(data => {
 
